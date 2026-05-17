@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import threading
 import time
-import keyboard  # Importing the keyboard library
+import keyboard
 
 # Global variables
 running = False
